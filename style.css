@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    background: tomato;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    width: 32em;
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1em;
+}
