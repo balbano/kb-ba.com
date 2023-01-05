@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
+html {
+    font-size: 100%;
+}
+
 body {
     background: tomato;
     font-family: "Open Sans", sans-serif;
-    font-size: 17px;
     min-height: 100vh;
     padding: 0;
     margin: 0;
@@ -13,7 +16,7 @@ body {
 }
 
 .wrapper {
-    width: 32em;
+    width: 32rem;
     max-width: 100%;
     margin: 0;
     padding: 10px;
