@@ -25,6 +25,7 @@ body {
 #logo {
     width: 100%;
     height: auto;
+    cursor: pointer; /* Make the logo do the pointer finger like a link does, since it is clickable */
 }
 
 h1 {
