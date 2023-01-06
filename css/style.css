@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background: tan;
+    background: white;
     font-family: "Open Sans", sans-serif;
     min-height: 100vh;
     padding: 0;
@@ -53,13 +53,13 @@ a:visited {
 }
 
 a:hover {
-    color: gold;
+    color: tomato;
     text-decoration: underline;
-    text-decoration-color: gold;
+    text-decoration-color: tomato;
 }
 
 a:active {
-    color: black;
+    color: tomato;
     text-decoration: underline;
-    text-decoration-color: gold;
+    text-decoration-color: tomato;
 }

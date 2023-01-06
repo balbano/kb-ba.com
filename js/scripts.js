@@ -2,7 +2,7 @@ function nextLogoImage(evt) {
     evt.preventDefault(); // Prevents both both a mouse and touch event from being delivered.
     const logoImage = document.getElementById("logo");
     const sources = [
-        "assets/logo_rotation/logo_photo_600x600.png",
+        "assets/logo_rotation/logo_600x600.png",
         "assets/logo_rotation/familiar_600x600.png",
         "assets/logo_rotation/familiar_closeup_600x600.png"
     ];
