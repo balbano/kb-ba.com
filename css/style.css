@@ -12,7 +12,12 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: top;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
 }
 
 .wrapper {
@@ -28,6 +33,12 @@ body {
     cursor: pointer; /* Make the logo do the pointer finger like a link does, since it is clickable */
 }
 
+div.project {
+    margin: 2em 0;
+    padding: .25em 1em;
+    background-color: #eeeeee;
+}
+
 h1 {
     text-align: center;
 }
@@ -36,9 +47,27 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1em;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+h3:before{
+    content: "+ ";
+}
+
+h3:after{
+    content: " +";
+}
+
 p.attribution {
     font-size: 0.5em;
     margin-top: 4em;
+}
+
+p.caption {
+    font-style: italic;
 }
 
 a:link {
@@ -63,4 +92,8 @@ a:active {
     color: tomato;
     text-decoration: underline;
     text-decoration-color: tomato;
+}
+
+img {
+    max-width: 100%;
 }
