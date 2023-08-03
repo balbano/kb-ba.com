@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Hilton
+title: KB+BA
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hilton is a super simple portfolio theme for Jekyll.
+description: KB+BA is an architecture firm based in Portland, OR.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -12,24 +12,24 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Services'
+      url: '/services/'
+    - title: 'FAQ'
+      url: '/faq/'
+    - title: 'Magic Circle'
+      url: '/magic-circle/'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
+  author__name: KB+BA Architecture
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   author__avatar: '/images/01-1.jpg'
 
@@ -47,8 +47,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Monica. I will create design that can give you value
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__title: KB+BA Architecture
+  hero__description: We design buildings and spaces for gathering, learning, creating and living. Let's collaborate and create architecture that tells your story and changes your life.
   hero__image: '/images/01.jpg'
 
 
@@ -63,9 +63,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
-
+  projects__title: Selected work
+  projects__description: A blurb about our projects!
 
 #-------------------------------
 # Testimonials Section
@@ -131,16 +130,16 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - url: '/about/'
-      title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+    - title: 'Services'
+      url: '/services/'
+    - title: 'FAQ'
+      url: '/faq/'
+    - title: 'Magic Circle'
+      url: '/magic-circle/'
 
 
 #-------------------------------
