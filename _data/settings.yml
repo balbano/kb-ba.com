@@ -29,8 +29,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: KB+BA Architecture
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  author__name: KB+BA
+  author__bio: KB+BA Architecture, LLC is Kate Barbaria, AIA and Brendan Albano, AIA, CPHC®. We are based in Portland, OR.
   author__avatar: '/images/01-1.jpg'
 
 social:
@@ -47,8 +47,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: KB+BA Architecture
-  hero__description: We design buildings and spaces for gathering, learning, creating and living. Let's collaborate and create architecture that tells your story and changes your life.
+  hero__title: Life's too short for bad architecture.
+  hero__description: We design creative spaces for curious people. Sign up for our mailing list to keep up-to-date with KB+BA Architecture and Magic Circle.
   hero__image: '/images/01.jpg'
 
 
@@ -140,6 +140,8 @@ footer_menu__settings:
       url: '/faq/'
     - title: 'Magic Circle'
       url: '/magic-circle/'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
