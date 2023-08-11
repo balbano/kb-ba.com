@@ -100,7 +100,7 @@
 .page-image {
   position: relative;
   transform: translate(0);
-  padding-top: 56.25%;
+  padding-top: 56.25%; // Sets aspect ratio of page image. For 16:9, 9/16 = 56.25%.
   margin-bottom: 48px;
   min-height: 280px;
   border-radius: 8px;
