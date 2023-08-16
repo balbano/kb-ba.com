@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: KB+BA
   author__bio: KB+BA Architecture, LLC is Kate Barbaria, AIA and Brendan Albano, AIA, CPHC®. We are based in Portland, OR.
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/kate-and-brendan.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -49,7 +49,7 @@ social:
 hero:
   hero__title: Life's too short for bad architecture.
   hero__description: We design creative spaces for curious people. Sign up for our mailing list to keep up-to-date with KB+BA Architecture and Magic Circle.
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/kbba-logo.png'
 
 
 #-------------------------------
@@ -114,14 +114,14 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+    - alt: '73 Saunas'
+      url: '/images/footer-gallery/73-saunas.jpg'
+    - alt: 'Being Present is Hard to Do'
+      url: '/images/footer-gallery/being-present-is-hard-to-do.jpg'
+    - alt: 'Excerpt from The Gardeners'
+      url: '/images/footer-gallery/gardeners.jpg'
+    - alt: 'Casual Stories Project'
+      url: '/images/footer-gallery/casual-stories-project.png'
 
 
 #-------------------------------
