@@ -2,31 +2,23 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/kate-and-brendan.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# KB >> Kate Barbaria
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+I’m an insatiably curious architect looking to uncover the “why” behind every project. You can expect me to always be asking you to “tell me more!” With a Master of Architecture from the School of the Art Institute of Chicago and a B.A. in Art History and Medieval Studies from the University of British Columbia, my education and background focused on the delight and agony of both creating and critiquing art and architecture. I’ve worked at both very large and very small firms, and teach architecture at Portland State University. I have led projects ranging from new schools to commercial T.I.s to single family homes.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+Contact: [kate@kb-ba.com](mailto:kate@kb-ba.com)
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+# BA >> Brendan Albano
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+As an artist and an architect, my interests range from the conceptual world of performance art to the concrete details of building performance. After receiving my B.F.A. in Visual Art from the University of British Columbia, where I focussed on performance and installation art, I continued my exploration of creating environments for human interaction in my Master of Architecture at the School of the Art Institute of Chicago. Along the way, I developed an interest in building performance, and worked for Argonne National Lab’s Building Energy Decision and Technology Research team and taught the course “Nodes, Networks and Interactivity in Practice” at SAIC. I’ve been the lead architect on many projects, including co-housing developments, single family homes, cafes, new commercial construction, and community centers.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+Contact: [brendan@kb-ba.com](mailto:brendan@kb-ba.com)
 
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
+# +
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+We met in Vancouver, BC and have developed a partnership and practice since our early days in undergrad where we were exploring performance and installation art focussed on intra-audience interaction. Our performance art was described as “groovy, unpretentious… intimate and elemental” (Colin Thomas, The Georgia Straight). 
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+This led us to architecture. We’ve cultivated a design practice that takes an expansive view of space-making and user interaction that is sweet and curious, useful and cerebral, and of course, groovy and elemental.
