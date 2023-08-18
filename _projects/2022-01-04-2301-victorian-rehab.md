@@ -1,36 +1,12 @@
 ---
 title: Victorian Rehab
-date: 2022-01-04 08:01:35 +0300
 subtitle: A new foundation for an old Victorian
 image: '/images/2301/2301-axon.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+Vancouver, WA<br>
+Victorian house renovation<br>
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+This 1901 Victorian house was delectably derelict, with a crumbling brick foundation, deficient structure, cramped rooms, and irreplaceable historic charm. A complete foundation replacement and expansion that involved lifting the house was in order, followed by structural improvements integrated into the existing historic balloon framing. The interior spaces have been opened up for more modern living, and a new kitchen is the cherry on top. 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-    <img src="/images/2301-axon.jpg" loading="lazy" alt="Project">
-  </div>
-</div>
-
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+*Phase 1 Structure and Foundation Replacement at [Polymath Studio](https://www.polymath.shop/), subsequent phases at KB+BA.*
