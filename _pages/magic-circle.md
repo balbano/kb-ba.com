@@ -13,8 +13,8 @@ Magic Circle is Kate Barbaria and Brendan Albano, artists and architects based i
 
 Word Wizards is a role-playing game (RPG) about a group of wizards who have just discovered wizarding and are rapidly and chaotically expanding their understanding of true words of magic. These stories can play out in a variety of settings and genres. Think stories about children going to wizard school, ill-advised deals with devils and faeries, government experiments with psychedelics, or anything else that sparks your imagination!
 
-[Download Word Wizards]()
+[Download Word Wizards](/games/word_wizards.pdf)
 
-## Tell Me Something You've Been Thinking About
+## Tell Me Something You've Been Thinking About, 2023
 
 *Tell Me Something You’ve Been Thinking About* is an interactive performance where we collect conversations with participants about things they have been thinking about. The potentially wide-ranging topics form a portrait of a group of people at a particular time and place. We've performed *Tell Me Something You’ve Been Thinking About* at Form.a at Oregon Contemporary on July 1st, 2023 and at the 2023 Oregon Country Fair.
