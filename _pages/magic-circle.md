@@ -13,7 +13,7 @@ Magic Circle is Kate Barbaria and Brendan Albano, artists and architects based i
 
 Word Wizards is a role-playing game (RPG) about a group of wizards who have just discovered wizarding and are rapidly and chaotically expanding their understanding of true words of magic. These stories can play out in a variety of settings and genres. Think stories about children going to wizard school, ill-advised deals with devils and faeries, government experiments with psychedelics, or anything else that sparks your imagination!
 
-[Download Word Wizards](https://brendanalbano.itch.io/word-wizards)
+[Download Word Wizards](https://brendanalbano.itch.io/word-wizards){:target="_blank"}
 
 ## Being Present Is Hard To Do, 2023, 2012
 
