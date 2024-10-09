@@ -45,7 +45,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Life's too short for bad architecture.
+  hero__title: Architecture, Games, Art.
   hero__description: We design creative spaces for curious people. Sign up for our mailing list to keep up-to-date with KB+BA Architecture and Magic Circle.
   hero__image: '/images/kbba-logo.png'
 
