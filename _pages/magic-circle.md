@@ -5,9 +5,26 @@ permalink: /magic-circle/
 image: '/images/being-present-is-hard-to-do.jpg'
 ---
 
-Magic Circle is Kate Barbaria and Brendan Albano, artists and architects based in Portland, OR. Our practice is rooted in performance, storytelling and space-making. We invite our audiences to join us in ritual and play, to be transported to other worlds, and to discover delight in the everyday magic of this one.
+Magic Circle is Kate Barbaria and Brendan Albano, artists, game designers, and architects based in Portland, OR. Our practice is rooted in performance, storytelling and space-making. We invite our audiences to join us in ritual and play, to be transported to other worlds, and to discover delight in the everyday magic of this one.
+
+PDFs of our game projects can be found at
+[brendanalbano.itch.io](https://brendanalbano.itch.io/){:target="_blank"}.
 
 # Projects
+
+## FOLK, 2024
+
+FOLK is a love letter to character generation, fan fiction, and storytelling prompts. It began because I love to start telling stories, and I detest finishing them.
+
+In this zine, you’ll find 20 characters that can be used as seeds for RPG character creation, NPC inspiration, or for the pleasure of taking your imagination for a stroll. 
+
+Each character has a portrait and an appellation. Most have a series of descriptive words in italics that might be considered character attributes, as well as a very short story. 
+
+Find us under "Magic Circle" at the [Big Bad Con Small Press Showcase](https://www.bigbadcon.com/small-press-showcase/){:target="_blank"}, or check back soon for more info about where to find FOLK!
+
+## Clown Furniture, 2025
+
+A forthcoming series of performances and furniture.
 
 ## Word Wizards, 2024
 
