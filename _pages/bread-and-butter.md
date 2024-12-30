@@ -16,3 +16,7 @@ permalink: /bread-and-butter/
 
 - The first Bread and Butter! Friday, November 8, 4pm, ADX
 - KB+BA's 2nd birthday! Friday, December 13, 4pm, ADX
+- Rye Bread Debut!? Friday, January 10, 4pm, ADX
+- A Bread and Butter Valentine's! Friday, February 14, 4pm, ADX
+
+[Subscribe to the Bread and Butter Google Calendar.](Friday, January 10, 4pm, ADX){:target="_blank"}

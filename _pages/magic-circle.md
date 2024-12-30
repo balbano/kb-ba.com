@@ -7,6 +7,8 @@ image: '/images/being-present-is-hard-to-do.jpg'
 
 Magic Circle is Kate Barbaria and Brendan Albano, artists, game designers, and architects based in Portland, OR. Our practice is rooted in performance, storytelling and space-making. We invite our audiences to join us in ritual and play, to be transported to other worlds, and to discover delight in the everyday magic of this one.
 
+To stay up-to-date with Magic Circle, subscribe to our mailing list on the KB+BA home page!
+
 PDFs of our game projects can be found at
 [brendanalbano.itch.io](https://brendanalbano.itch.io/){:target="_blank"}.
 
