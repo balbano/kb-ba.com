@@ -19,4 +19,4 @@ permalink: /bread-and-butter/
 - Rye Bread Debut!? Friday, January 10, 4pm, ADX
 - A Bread and Butter Valentine's! Friday, February 14, 4pm, ADX
 
-[Subscribe to the Bread and Butter Google Calendar.](Friday, January 10, 4pm, ADX){:target="_blank"}
+[Subscribe to the Bread and Butter Google Calendar.](https://calendar.google.com/calendar/embed?src=c_43150cf94b36b414dbdaa5fc8c9c09e6fae6fdbafd82277b9dd9c63dd562890b%40group.calendar.google.com&ctz=America%2FLos_Angeles){:target="_blank"}
