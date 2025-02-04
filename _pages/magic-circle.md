@@ -7,9 +7,9 @@ image: '/images/folk-volume-2.png'
 
 # Magic Circle Announcements
 
-## [Crowdfunding FOLK Volume II: Travelers of the Inky Void](https://www.backerkit.com/call_to_action/b45fad59-7ce0-471d-8ffc-d1d7001302c1/landing){:target="_blank"}
+## [Crowdfunding FOLK Volume II: Travelers of the Inky Void](https://www.backerkit.com/c/projects/kb-ba/folk-volume-ii?ref=kbba){:target="_blank"}
 
-[Click here to follow FOLK on Backerkit](https://www.backerkit.com/call_to_action/b45fad59-7ce0-471d-8ffc-d1d7001302c1/landing){:target="_blank"} and meet new friends on a starship, space station, or distant moon in this system-agnostic TTRPG zine! These illustrated characters and settings can be seeds for character creation, campaign preparation, or read as a comic where you supply the plot!
+[Click here to back FOLK on Backerkit](https://www.backerkit.com/c/projects/kb-ba/folk-volume-ii?ref=kbba){:target="_blank"} and meet new friends on a starship, space station, or distant moon in this system-agnostic TTRPG zine! These illustrated characters and settings can be seeds for character creation, campaign preparation, or read as a comic where you supply the plot!
 
 # About Magic Circle
 
