@@ -7,20 +7,34 @@ image: '/images/folk-volume-2.png'
 
 # Magic Circle Announcements
 
-## [Crowdfunding FOLK Volume II: Travelers of the Inky Void](https://www.backerkit.com/c/projects/kb-ba/folk-volume-ii?ref=kbba){:target="_blank"}
+## FOLK and Travelers Print Zines!
 
-[Click here to back FOLK on Backerkit](https://www.backerkit.com/c/projects/kb-ba/folk-volume-ii?ref=kbba){:target="_blank"} and meet new friends on a starship, space station, or distant moon in this system-agnostic TTRPG zine! These illustrated characters and settings can be seeds for character creation, campaign preparation, or read as a comic where you supply the plot!
+Order print copies of [FOLK](https://heartofthedeernicorn.com/product/folk/?v=0b3b97fa6688){:target="_blank"} and [Travelers of the Inky Void](https://heartofthedeernicorn.com/product/travelers-of-the-inky-void/?v=0b3b97fa6688){:target="_blank"} from our friends at [Heart of the Deernicorn!](https://heartofthedeernicorn.com/){:target="_blank"}
 
-# About Magic Circle
+# About Magic Circle and Pony Press
 
 Magic Circle is Kate Barbaria and Brendan Albano, artists, game designers, and architects based in Portland, OR. Our practice is rooted in performance, storytelling and space-making. We invite our audiences to join us in ritual and play, to be transported to other worlds, and to discover delight in the everyday magic of this one.
 
-To stay up-to-date with Magic Circle, subscribe to our mailing list on the KB+BA home page!
+Pony Press is also Kate Barbaria and Brendan Albano! We love names. And we love ponies. So we have named out game and zine publishing efforts Pony Press.
+
+To stay up-to-date with Magic Circle and Pony Press, subscribe to our mailing list on the KB+BA home page!
 
 PDFs of our game projects can be found at
-[brendanalbano.itch.io](https://brendanalbano.itch.io/){:target="_blank"}.
+[www.pony-press.com](http://www.pony-press.com){:target="_blank"}.
 
 # Projects
+
+## Travelers of the Inky Void, 2025
+
+Travelers of the Inky Void is a picture book. It is an exercise in worldbuilding for the for the joy of building a world and exploring it.
+
+Take your imagination on a stroll. Let it fill in the blanks.
+
+Travelers of the Inky Void is also a roleplaying game setting.
+
+The folk of Void City are people you meet or characters you play. Their roles are factions. Their desires are adventure hooks. The tables of dangerous, forgotten, and broken things are random encounters or sparks for session prep.
+
+The Night Market is a reason to come to Void City in the first place.
 
 ## FOLK Volume I, 2024
 
@@ -29,8 +43,6 @@ FOLK is a love letter to character generation, fan fiction, and storytelling pro
 In this zine, you’ll find 20 characters that can be used as seeds for RPG character creation, NPC inspiration, or for the pleasure of taking your imagination for a stroll. 
 
 Each character has a portrait and an appellation. Most have a series of descriptive words in italics that might be considered character attributes, as well as a very short story. 
-
-[Purchase FOLK Volume I on itch.io](https://brendanalbano.itch.io/folk){:target="_blank"}.
 
 ## Clown Furniture, 2025
 
