@@ -30,7 +30,7 @@ permalink: /bread-and-butter/
 - July: we're taking the month off from Bread and Butter, but if you can find us at the Oregon Country Fair, we might still have some bread to share.
 - August 8, 4pm, ADX
 - September 12, 4pm, ADX - Celebrate Brendan's birthday eve!
-- October 10, 4pm, ADX
+- October 10, 4pm, ADX - Featuring [The Zine Zone](https://www.tabletopgamealliance.org/2025/08/22/the-zine-zone-at-go-play-northwest-2025/)!
 - November 14, 4pm, ADX - Celebrate a year of Bread and Butter!
 - December 12, 4pm, ADX
 
