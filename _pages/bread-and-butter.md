@@ -12,6 +12,8 @@ permalink: /bread-and-butter/
 
 *Kate and Brendan*
 
+*P.S. Bread and Butter is going on hiatus November and December 2025, but we hope to be back at a new location in January 2026!*
+
 ## Upcoming Bread and Butter Dates
 
 ### 2024
@@ -31,7 +33,7 @@ permalink: /bread-and-butter/
 - August 8, 4pm, ADX
 - September 12, 4pm, ADX - Celebrate Brendan's birthday eve!
 - October 10, 4pm, ADX - Featuring [The Zine Zone](https://www.tabletopgamealliance.org/2025/08/22/the-zine-zone-at-go-play-northwest-2025/)!
-- November 14, 4pm, ADX - Celebrate a year of Bread and Butter!
-- December 12, 4pm, ADX
+- November: Taking a break for the holidays. We'll be back in January 2026!
+- December: Taking a break for the holidays. We'll be back in January 2026!
 
 [Subscribe to the Bread and Butter Google Calendar.](https://calendar.google.com/calendar/embed?src=c_43150cf94b36b414dbdaa5fc8c9c09e6fae6fdbafd82277b9dd9c63dd562890b%40group.calendar.google.com&ctz=America%2FLos_Angeles){:target="_blank"}
