@@ -15,5 +15,6 @@ A careful eye towards detailing and material quality, strategic deployment of pa
     <img src="/images/2302/2302-overhead-doors.jpg" loading="lazy" alt="Interior Overhead Doors">
     <img src="/images/2302/2302-mezzanine.jpg" loading="lazy" alt="Mezzanine">
     <img src="/images/2302/2302-stairs.jpg" loading="lazy" alt="Stairs">
+    <img src="/images/2302/2302-construction.jpg" loading="lazy" alt="Construction">
   </div>
 </div>
