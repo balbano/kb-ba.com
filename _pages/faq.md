@@ -62,6 +62,6 @@ When you are thinking about your budget, we recommend setting aside 20% of your 
 
 ## What is KB+BA’s fee structure?
 
-On projects with a clear budget that is in alignment with the scope of the project, we set our fees to a percentage of the cost of construction. Typically this is in the range of 10-15%, but varies depending on the size and complexity of the project. Smaller and more complex projects typically have a higher percentage, while larger and simpler projects typically have a lower percentage.
+On projects with a clear budget that is in alignment with the scope of the project, we charge a fixed design fee. Again, since we're trying to give you a little more info than just "it depends," we can say that while every project is a little different, typically our design fee falls in the range of 10-15% of the cost of construction. This varies depending on the size and complexity of the project. Smaller and more complex projects (like single-family homes) will be on the higher end, while larger and simpler projects (like a large open commercial space) will be on the lower end.
 
 For feasibility studies, and other work that doesn’t have a clear construction budget associated with it, we charge a fixed fee for projects with a well defined scope of work, and charge hourly for projects with an open-ended scope of work.
