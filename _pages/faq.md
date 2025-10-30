@@ -58,7 +58,7 @@ Nope! We’re happy if you’ve already got a contractor in mind, or a shortlist
 
 Similar to questions of project schedule, the honest (but frustrating) answer is another “it depends.” We want your project to succeed, and the best way to do that is to bring the scope and the budget of the project into alignment as quickly as possible. We prioritize beginning a dialogue with contractors (or cost estimators on larger commercial projects) early on in the design process to gather preliminary cost data. 
 
-When you are thinking about your budget, we recommend setting aside 20% of your total project budget for soft costs such as the architect, engineers, consultants, permitting, and other costs not part of the contractor’s cost of construction. Since we know you’re not going to be totally satisfied with “it depends,” we can say that the residential projects we’ve worked on over the last few years have had construction costs in the neighborhood of $300-$500 per square foot.
+When you are thinking about your budget, we recommend setting aside 20% of your total project budget for soft costs such as the architect, engineers, consultants, permitting, and other costs not part of the contractor’s cost of construction. Since we know you’re not going to be totally satisfied with “it depends,” we can say that the residential projects we’ve worked on over the last few years have had construction costs in the neighborhood of $400-$500 per square foot.
 
 ## What is KB+BA’s fee structure?
 
