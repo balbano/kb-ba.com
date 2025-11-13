@@ -36,7 +36,6 @@ author:
   author__avatar: '/images/kate-and-brendan.jpg'
 
 social:
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/kbba_architecture/"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
