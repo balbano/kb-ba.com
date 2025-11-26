@@ -13,7 +13,7 @@ This age-in-place home prioritizes light, community connection, and views of goo
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/2305/2505-early-sketch.jpg" loading="lazy" alt="Early Sketch">
-    <img src="/images/2305/2505-rendering-front.jpg" loading="lazy" alt="Front Facade Rendering">
+    <img src="/images/2505/2505-early-sketch.jpg" loading="lazy" alt="Early Sketch">
+    <img src="/images/2505/2505-rendering-front.jpg" loading="lazy" alt="Front Facade Rendering">
   </div>
 </div>
