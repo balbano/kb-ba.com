@@ -4,8 +4,8 @@ subtitle: New home in a co-housing community
 image: '/images/2023/2023-axon.jpg'
 ---
 
-Forest Grove, Oregon<br>
-New home in a co-housing community
+*Forest Grove, Oregon*<br>
+**New home in a co-housing community**
 
 The [Green Grove Cohousing Community](https://greengrovecoho.org/) is a 5-acre property with 9 homes, in Forest Grove, Oregon. The collective and the individuals that live there embrace “environmental sustainability, social justice, community service and the arts”.
 

@@ -4,8 +4,8 @@ subtitle: Guest suite with a sauna
 image: '/images/2307/2307-axon.jpg'
 ---
 
-Eugene, Oregon<br>
-Attached ADU and outdoor area 
+*Eugene, Oregon*<br>
+**Attached ADU and outdoor area**
 
 The Visitor’s Retreat is a small guest suite/accessory dwelling unit, converted from an unused enclosed porch on the lower story of a mid-century modern home. 
 

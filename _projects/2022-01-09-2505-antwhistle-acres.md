@@ -4,8 +4,8 @@ subtitle: Age-in-place living and family art studio
 image: '/images/2505/2505-rendering-corner.jpg'
 ---
 
-Portland, Oregon<br>
-Age-in-place living combined with a shared family art studio and ADU above
+*Portland, Oregon*<br>
+**Age-in-place living combined with a shared family art studio and ADU above**
 
 Nestled into the dense fabric of Portland’s east side, an awkwardly shaped lot with a derelict garage is transformed into a tender multi-generational complex. A light-filled, age-in-place home fills the first floor of the main building, and a sweet and cozy ADU is nestled on top. A detached art studio for the family and neighbors, plus some hearty bike storage, are tucked into the rear garden. 
 
