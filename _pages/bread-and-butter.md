@@ -17,7 +17,7 @@ permalink: /bread-and-butter/
 ### 2026
 
 - March 20, 4-6pm, ADX
-- February 20, 4-6pm, ADX
+- February 20: Cancelled due to Kate and Brendan getting sick 🤧.
 - January: Hangover from the holidays. Still on break!
 
 ### 2025
