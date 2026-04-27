@@ -6,7 +6,7 @@ permalink: /bread-and-butter/
 
 *Dearest friend,*
 
-*Crawl on out of your design cave, because you are cordially invited to Bread & Butter, an art and design social hour hosted by KB+BA at ADX, 417 SE 11th Ave, Portland, OR, where you can indulge Brendan's desire to bake more bread than he can eat. See below for dates and times!*
+*Crawl on out of your design cave, because you are cordially invited to Bread & Butter, an art and design social hour and gentle, bread-based art performance hosted by KB+BA at ADX, 417 SE 11th Ave, Portland, OR, where you can indulge Brendan's desire to bake more bread than he can eat. See below for dates and times!*
 
 *Yours, etc.,*
 
@@ -16,7 +16,10 @@ permalink: /bread-and-butter/
 
 ### 2026
 
-- May 22, 4-6pm, ADX
+- October 16, 4-6pm, ADX
+- September: To be scheduled
+- August: To be scheduled
+- May - July: Bread and Butter is on Summer Vacation!
 - April 24, 4-6pm, ADX
 - March 20, 4-6pm, ADX
 - February 20: Cancelled due to Kate and Brendan getting sick 🤧.
